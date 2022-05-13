@@ -1,0 +1,19 @@
+{
+  "name": "novo-projeto",
+  "version": "0.0.1",
+  "description": "Template de Projeto Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Cypress",
+    "Node",
+    "Rodrigo"
+  ],
+  "author": "Rodrigo Costa",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^6.8.0"
+  }
+}
